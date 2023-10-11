@@ -86,6 +86,6 @@ ip protocol vrrp accept
 
 7.Reload nftables.
 
-```
+```bash
 systemctl reload nftables.service
 ```
